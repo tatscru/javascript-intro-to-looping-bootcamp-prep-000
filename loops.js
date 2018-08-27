@@ -9,7 +9,6 @@ function forLoop(originalArray) {
   return originalArray
 }
 
-
 function whileLoop(n) {
   
   while (n > 0); {
