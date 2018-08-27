@@ -23,4 +23,4 @@ function doWhileLoop(array)  {
 do {
   console.log(array)
   incrementVariable(false) 
-} while i
+} while (array.length > 0 && )
