@@ -21,6 +21,8 @@ function doWhileLoop(array)  {
   
   
   
-} function incrementVariable() {
-    
+do {
+  console.log(array)
+} incrementVariable(false) {
+    incrementVariable(false);
 }
