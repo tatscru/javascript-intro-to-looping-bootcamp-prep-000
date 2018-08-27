@@ -26,7 +26,7 @@ function doWhileLoop(array)  {
 }
 
   
-do {
+  do {
   console.log(`array`)
     incrementVariable() 
   }   while (array.length > 0 && incrementVariable())
