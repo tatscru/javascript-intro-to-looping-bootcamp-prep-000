@@ -18,10 +18,10 @@ function whileLoop(n) {
 
 
 function doWhileLoop(array)  {
-  do
   
   
-} function incrementVariable(false) {
+  
+} function incrementVariable() {
   
   do { 
     console.log()
