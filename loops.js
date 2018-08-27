@@ -2,6 +2,7 @@
 function forLoop(originalArray) {
 
   for(var i = 0; i < 25; i++) {
+    // check if i is equal to 1
     if(i === 1) {
        originalArray.push("I am 1 strange loop.") 
     } else {
