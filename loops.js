@@ -13,7 +13,7 @@ function forLoop(originalArray) {
 function whileLoop(n) {
   return "done"
   
-  while (n === 99); {
+  while (n === 0); {
     console.log(--countdown);
   }
 }
