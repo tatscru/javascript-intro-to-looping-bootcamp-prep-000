@@ -9,10 +9,6 @@ function forLoop(originalArray) {
   return originalArray
 }
 
-let countdown = 100; 
-
-while (countdown > 0) {
-}
 
 function whileLoop(n) {
   return "done"
