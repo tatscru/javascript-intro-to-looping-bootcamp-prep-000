@@ -1,4 +1,4 @@
-// @todo
+// @todo describe what this funcgtion does
 function forLoop(originalArray) {
 
   for(var i = 0; i < 25; i++) {
