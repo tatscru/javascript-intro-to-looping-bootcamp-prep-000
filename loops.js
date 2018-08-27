@@ -30,5 +30,4 @@ function doWhileLoop(array)  {
     console.log(`array`)
     incrementVariable() 
   } while (array.length > 0 && incrementVariable())
-  return "false"
 }
