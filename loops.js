@@ -21,8 +21,8 @@ function doWhileLoop(array)  {
   
   
 do {
-  console.log(array)
-    incrementVariable("remove elements `array` until the `array` is empty") 
+  console.log(`array`)
+    incrementVariable() 
   }   while (array.length > 0 && incrementVariable())
   return "false"
 }
